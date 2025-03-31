@@ -2,6 +2,5 @@
 #include <ARC-128C.h>
 
 int main(void) {
-    printf("Bazinga\n");
-    foo();
+    printf("Hello, ARC-128C!\n");
 }
